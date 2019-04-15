@@ -9,6 +9,7 @@ namespace Generics
     class DICT
     {
         static void Main()
+            //sdfsf
         {
             Dictionary<int, string> datas = new Dictionary<int, string>()
                                             {

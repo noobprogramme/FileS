@@ -8,10 +8,15 @@ namespace Generics
 {
     class DICT
     {
+        public void newM(int a, int b)
+        {
+            Console.WriteLine("new mthod");
+        }
         static void Main()
             //sdfsf
             //test
             //hgycjvibyjbiubiuhb
+            
         {
             Dictionary<int, string> datas = new Dictionary<int, string>()
                                             {

@@ -1,0 +1,10 @@
+C:\Users\v_hem\source\repos\Formproject\Formproject\bin\Debug\Formproject.exe.config
+C:\Users\v_hem\source\repos\Formproject\Formproject\bin\Debug\Formproject.exe
+C:\Users\v_hem\source\repos\Formproject\Formproject\bin\Debug\Formproject.pdb
+C:\Users\v_hem\source\repos\Formproject\Formproject\obj\Debug\Formproject.csprojAssemblyReference.cache
+C:\Users\v_hem\source\repos\Formproject\Formproject\obj\Debug\Formproject.Form1.resources
+C:\Users\v_hem\source\repos\Formproject\Formproject\obj\Debug\Formproject.Properties.Resources.resources
+C:\Users\v_hem\source\repos\Formproject\Formproject\obj\Debug\Formproject.csproj.GenerateResource.cache
+C:\Users\v_hem\source\repos\Formproject\Formproject\obj\Debug\Formproject.csproj.CoreCompileInputs.cache
+C:\Users\v_hem\source\repos\Formproject\Formproject\obj\Debug\Formproject.exe
+C:\Users\v_hem\source\repos\Formproject\Formproject\obj\Debug\Formproject.pdb

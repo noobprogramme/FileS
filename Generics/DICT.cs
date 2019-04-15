@@ -11,6 +11,7 @@ namespace Generics
         static void Main()
             //sdfsf
             //test
+            //hgycjvibyjbiubiuhb
         {
             Dictionary<int, string> datas = new Dictionary<int, string>()
                                             {
